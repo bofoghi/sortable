@@ -1,0 +1,9 @@
+G:\BOFOGHI\DOT-NET-PROJECTS\MISC\sortableChallenge\sortableChallenge\bin\Debug\sortableChallenge.exe
+G:\BOFOGHI\DOT-NET-PROJECTS\MISC\sortableChallenge\sortableChallenge\bin\Debug\sortableChallenge.pdb
+G:\BOFOGHI\DOT-NET-PROJECTS\MISC\sortableChallenge\sortableChallenge\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\BOFOGHI\DOT-NET-PROJECTS\MISC\sortableChallenge\sortableChallenge\obj\x86\Debug\sortableChallenge.frmMain.resources
+G:\BOFOGHI\DOT-NET-PROJECTS\MISC\sortableChallenge\sortableChallenge\obj\x86\Debug\sortableChallenge.Properties.Resources.resources
+G:\BOFOGHI\DOT-NET-PROJECTS\MISC\sortableChallenge\sortableChallenge\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\BOFOGHI\DOT-NET-PROJECTS\MISC\sortableChallenge\sortableChallenge\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\BOFOGHI\DOT-NET-PROJECTS\MISC\sortableChallenge\sortableChallenge\obj\x86\Debug\sortableChallenge.exe
+G:\BOFOGHI\DOT-NET-PROJECTS\MISC\sortableChallenge\sortableChallenge\obj\x86\Debug\sortableChallenge.pdb
